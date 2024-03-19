@@ -1,4 +1,4 @@
-# Stock chatbot
+# **Stock chatbot**
 • Implemented a System that gives you update for current marketprice of any stock through chat.
 • Retrieved data from MarketStack API, having the key to accessing real-time stock market data. It empowers the bot with up-to-date information for accurate stock price.
 • Implemented using Python having rich set of libraries make it ideal for data analysis and automation.
